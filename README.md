@@ -17,6 +17,10 @@
 - **ウイルスフリー**：厳重にセキュリティ対策が施されており、安心して使用可能です。
 - **簡単インストール**：面倒な設定は不要。Releaseタブからダウンロードして実行するだけです。
 
+以下は69種類の主要なセキュリティソフトでTVBoxをスキャンした結果です。
+https://www.virustotal.com/gui/file/b529a0d0f1b36409b5ecc3b399017b341945da2b45fab12ac9c6e54863cbec7d?nocache=1
+
+全てのセキュリティソフトでウィルス検知無しと証明されています。
 ## 使い方
 
 1. このページの [Release](https://github.com/ERM073/TVBox/releases/tag/v1.0.0) タブに移動します。

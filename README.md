@@ -42,3 +42,8 @@ https://www.virustotal.com/gui/file/b529a0d0f1b36409b5ecc3b399017b341945da2b45fa
 ## 問い合わせ
 
 問題が発生した場合は、[Issue](https://github.com/ERM073/TVBox/issues) タブにてご報告ください。
+
+# 開発資金の寄付者一覧
+
+・Hada​Makoto様
+・ChibiNeko様

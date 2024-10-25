@@ -46,4 +46,5 @@ https://www.virustotal.com/gui/file/b529a0d0f1b36409b5ecc3b399017b341945da2b45fa
 # 開発資金の寄付者一覧
 
 ・Hada​Makoto様
+
 ・ChibiNeko様

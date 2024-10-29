@@ -43,8 +43,18 @@ https://www.virustotal.com/gui/file/b529a0d0f1b36409b5ecc3b399017b341945da2b45fa
 
 問題が発生した場合は、[Issue](https://github.com/ERM073/TVBox/issues) タブにてご報告ください。
 
+## Q&A
+Q.TVBoxとは？
+A.第三者によってインターネット上で公開されているIPTVリンクを使用してLIVE放送を表示しているアプリケーションです。
+
+Q.なぜ開発されたのですか？
+A.VLCメディアプレーヤーで公開されているIPTV視聴するのが面倒だったからです。
+
 # 開発資金の寄付者一覧
 
-・Hada​Makoto様
+https://tv.us.jp.eu.org/Super-Thanks/
+
+初期の寄付者
+・Hada​様
 
 ・ChibiNeko様

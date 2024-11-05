@@ -23,7 +23,7 @@ https://www.virustotal.com/gui/file/b529a0d0f1b36409b5ecc3b399017b341945da2b45fa
 全てのセキュリティソフトでウィルス検知無しと証明されています。
 ## 使い方
 
-1. このページの [Release](https://github.com/ERM073/TVBox/releases/tag/v1.0.0) タブに移動します。
+1. このページの [Release](https://github.com/ERM073/TVBox/releases/) タブに移動します。
 2. 最新のリリース版から `TVBox.exe` をダウンロードします。
 3. ダウンロードしたファイルをダブルクリックし、インストールを開始します。
 4. インストール後、アプリケーションを起動し、視聴したいチャンネルを選択するだけで視聴可能です。

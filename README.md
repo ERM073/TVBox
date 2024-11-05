@@ -48,8 +48,6 @@ VLCで公開リンクから視聴するのと同じ仕組みです。
 
 ソースの一部
 
-[https://github.com/take2560/takelab](https://github.com/take2560?tab=repositories)
-
 https://github.com/Free-TV/IPTV/
 
 https://github.com/wcb1969/iptv/tree/mai

@@ -42,11 +42,27 @@ https://www.virustotal.com/gui/file/b529a0d0f1b36409b5ecc3b399017b341945da2b45fa
 ## Q&A
 #### Q.TVBoxとは？
 
-A.インターネット上で公開されているIPTVリンクを使用してLIVE放送を表示するアプリケーションです。
+A.インターネット上で第三者によって公開されているIPTVリンクを使用してLIVE放送を表示するアプリケーションです。
+
+VLCで公開リンクから視聴するのと同じ仕組みです。
+
+ソースの一部
+
+[https://github.com/take2560/takelab](https://github.com/take2560?tab=repositories)
+
+https://github.com/Free-TV/IPTV/
+
+https://github.com/wcb1969/iptv/tree/mai
+
+使用しているソースは全てGitHubで公開されているものです。
+
+### Q.チャンネルの字幕は削除できますか？
+
+A.いいえ、私がアップロード等しているわけではないため不可能です。
 
 #### Q.なぜ開発されたのですか？
 
-A.VLCメディアプレーヤーで公開されているIPTV視聴や管理,操作が面倒だったからです。
+A.VLCメディアプレーヤーで公開されているIPTV視聴や管理,操作が不便だったからです。
 
 #### Q.視聴するのは合法ですか？
 A.はい。日本の法律と過去の判例では「コンテンツを端末へ映像や音声を保存する行為」が違法となっており、ストリーミング(視聴)する分だけならば合法です。
@@ -56,8 +72,7 @@ TVBoxの使用は"視聴だけ"にしてください。
 画面録画等はTVBoxは一切許可していません。
 
 # 開発資金の寄付者一覧
-
-https://tv.us.jp.eu.org/Super-Thanks/
+https://2cm.es/OJX2
 
 初期の寄付者
 ・Hada​様

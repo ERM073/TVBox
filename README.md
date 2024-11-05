@@ -50,7 +50,7 @@ VLCで公開リンクから視聴するのと同じ仕組みです。
 
 https://github.com/Free-TV/IPTV/
 
-https://github.com/wcb1969/iptv/tree/mai
+https://github.com/wcb1969/iptv/tree/main
 
 使用しているソースは全てGitHubで公開されているものです。
 
@@ -73,6 +73,7 @@ TVBoxの使用は"視聴だけ"にしてください。
 https://2cm.es/OJX2
 
 初期の寄付者
+
 ・Hada​様
 
 ・ChibiNeko様

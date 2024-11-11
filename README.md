@@ -1,4 +1,5 @@
 # TVBox - 日本の地上波・BS・CSが視聴可能
+### ※IPTV(VLCやHypnotix)を利用した経験のある、IPTVのデメリット等を知ってる人のみ使って下さい。<br>前提として無料のIPTVは24時間365日 安定して映る訳じゃないです。
 
 <img src="https://raw.githubusercontent.com/ERM073/TVBox/main/icon.ico" alt="TVBoxロゴ" width="100" height="100">
 
@@ -71,9 +72,3 @@ TVBoxの使用は"視聴だけ"にしてください。
 
 # 開発資金の寄付者一覧
 https://2cm.es/OJX2
-
-初期の寄付者
-
-・Hada​様
-
-・ChibiNeko様

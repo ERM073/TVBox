@@ -27,7 +27,7 @@
 ## 使い方
 
 1. Windowsユーザーの場合は<a href="https://x.gd/tvbox123" target="new">ここをクリック</a>して、Windows版のSetup.exeをダウンロードしてダブルクリックしてインストールします。
-2. Windows以外の方もWeb版をクリックするとWeb版に以降します。
+2. Windows以外の方もWeb版をクリックするとWeb版にアクセスできます。
 
 ## または
 

@@ -3,6 +3,22 @@
 
 ### ※Amazonや中国の通販サイト等で売られてるU-BoxやTVBoxとこのソフトは一切関係ありません。<br>このソフトにつけた名前が一緒なだけです。
 
+# サーバースペックと資金不足に陥っています。
+
+<img src="https://cdn.statically.io/img/iili.io/3I2JIse.png" alt="sys" >
+
+**寄付はこちらから<br>**
+https://x.gd/iq7yK 
+
+TVBoxを開発するために安い海外の専用サーバーを活用していますが、それでも毎月$40(日本円で6000円)掛かっています。<br>
+資金が無くなったと同時にTVBoxの開発,運用は打ち切る予定です。ご了承ください。
+
+> ⚠ **現在利用者が増えすぎたせいで、サーバーの負荷がサーバーの限界値から常時7~10倍を超えており正常に再生できなくなっています。<br>
+これを解消するには$200(3万円)のサーバーアップグレード費用が掛かります。**
+
+
+$200(3万円)あれば現在のユーザー数に合ったスペックに上げられます。リリース当初の様な快適なソフトウェアに戻したいです。お力をお貸しください。
+
 ## 簡単インストール&Windows以外の方もこちら -> <a href="https://x.gd/tvbox123" target="new">ダウンロード&Web版</a>
 
 <img src="https://raw.githubusercontent.com/ERM073/TVBox/main/icon.ico" alt="TVBoxロゴ" width="100" height="100">
@@ -88,9 +104,3 @@ A.ソフトウェアのデジタル署名の問題です。ウィルスではあ
 
 画像付きのインストール方法はこちら<br>
 <a href="https://faq.nec-lavie.jp/qasearch/1007/app/servlet/qadoc?QID=020594" target="new">https://faq.nec-lavie.jp/qasearch/1007/app/servlet/qadoc?QID=020594</a>
-
-# 開発資金の寄付者一覧
-https://x.gd/iq7yK 
-
-TVBoxを開発をするために安い海外の専用サーバーを活用していますが。それでも毎月$40(日本円で6000円)掛かっています。
-資金が無くなったと同時にTVBoxの開発,運用は打ち切る予定です。ご了承ください。

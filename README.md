@@ -14,6 +14,8 @@
 **寄付はこちらから<br>**
 https://x.gd/iq7yK 
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L21D9JB9)
+
 TVBoxを開発するために安い海外の専用サーバーを活用していますが、それでも毎月$40(日本円で6000円)掛かっています。<br>
 資金が無くなったと同時にTVBoxの開発,運用は打ち切る予定です。ご了承ください。
 

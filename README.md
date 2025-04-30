@@ -21,7 +21,7 @@ https://x.gd/iq7yK
 
 ## 簡単インストール&Windows以外の方もこちら -> <a href="https://x.gd/tvbox123" target="new">ダウンロード&Web版</a>
 
-<img src="https://raw.githubusercontent.com/ERM073/TVBox/main/icon.ico" alt="TVBoxロゴ" width="100" height="100">
+<img src="https://raw.githubusercontent.com/ERM073/TVBox/main/new-icon.ico" alt="TVBoxロゴ" width="125" height="125">
 
 **TVBox** は、日本国内の地上波、BS、CS放送を一つのソフトウェアで視聴できる画期的なアプリケーションです。
 
